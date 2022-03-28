@@ -138,9 +138,9 @@
                     <img src="assets/img/about.jpg" class="img-fluid" alt="">
                 </div>
                 <div class="col-lg-6 pt-4 pt-lg-0 order-2 order-lg-1 content" data-aos="fade-right" data-aos-delay="100">
-                    <h3>Famethe offers state of the art technology products, IT consultancy, and solutions across completely un-banked and banked markets.</h3>
+                    <h3>Famethe offers state of the art technology products, IT Consultancy, and solutions across all markets.</h3>
                     <p class="fst-italic">
-                        We revolutionized the way to help Banks, Mobile network operators (MNOs), independent financial and non financial institutions to create and provide high quality and cost effective digital financial services to their clients.
+                        We revolutionized the way to help our clients to create and provide high quality and cost effective digital platforms to enhance business operations.
                     </p>
                     <p>
                         Our target area is business growth and Famethe offers the services below to ensure our clients reach their full potential and are more efficient.
@@ -265,7 +265,7 @@
                     </div>
                 </div>
 
-                <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4" data-aos="zoom-in" data-aos-delay="300">
+                <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4" data-aos="zoom-in" data-aos-delay="300" hidden>
                     <div class="icon-box">
                         <div class="icon"><i class="ri-briefcase-line"></i></div>
                         <h4><a href="">Our Products</a></h4>
@@ -378,7 +378,7 @@
     </section><!-- End Portfolio Section -->
 
     <!-- ======= Counts Section ======= -->
-    <section id="counts" class="counts">
+    <section id="counts" class="counts" hidden>
         <div class="container" data-aos="fade-up">
             <div class="section-title">
                 <h2>Products</h2>
@@ -681,8 +681,6 @@
                             <i class="bi bi-envelope"></i>
                             <h4>Email:</h4>
                             <p>info@famethe.co.zw</p>
-                            <p>flavian@famethe.co.zw</p>
-                            <p>andries@famethe.co.zw</p>
                         </div>
 
                         <div class="phone">
